@@ -1,1 +1,1 @@
-title:"Canadian Bill explainer"
+title: CanadianBillExplainer
